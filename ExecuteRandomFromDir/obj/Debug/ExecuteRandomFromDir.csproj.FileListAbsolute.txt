@@ -10,3 +10,9 @@ C:\Users\Sadmin\Desktop\ExecuteRandomFromDir\ExecuteRandomFromDir\bin\Debug\Exec
 C:\Users\Sadmin\Desktop\ExecuteRandomFromDir\ExecuteRandomFromDir\obj\Debug\ExecuteRandomFromDir.csproj.CoreCompileInputs.cache
 C:\Users\Sadmin\Desktop\ExecuteRandomFromDir\ExecuteRandomFromDir\obj\Debug\ExecuteRandomFromDir.exe
 C:\Users\Sadmin\Desktop\ExecuteRandomFromDir\ExecuteRandomFromDir\obj\Debug\ExecuteRandomFromDir.pdb
+C:\Users\gkint\Source\Repos\kintzo\ExecuteRandomFromDir\ExecuteRandomFromDir\bin\Debug\ExecuteRandomFromDir.exe.config
+C:\Users\gkint\Source\Repos\kintzo\ExecuteRandomFromDir\ExecuteRandomFromDir\bin\Debug\ExecuteRandomFromDir.exe
+C:\Users\gkint\Source\Repos\kintzo\ExecuteRandomFromDir\ExecuteRandomFromDir\bin\Debug\ExecuteRandomFromDir.pdb
+C:\Users\gkint\Source\Repos\kintzo\ExecuteRandomFromDir\ExecuteRandomFromDir\obj\Debug\ExecuteRandomFromDir.csproj.CoreCompileInputs.cache
+C:\Users\gkint\Source\Repos\kintzo\ExecuteRandomFromDir\ExecuteRandomFromDir\obj\Debug\ExecuteRandomFromDir.exe
+C:\Users\gkint\Source\Repos\kintzo\ExecuteRandomFromDir\ExecuteRandomFromDir\obj\Debug\ExecuteRandomFromDir.pdb

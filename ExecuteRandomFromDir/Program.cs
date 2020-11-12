@@ -78,6 +78,7 @@ namespace ExecuteRandomFromDir
 
                 if (folderList.IndexOf(mainFolder.SelectedPath) > -1) {
                     Console.WriteLine("path already exists");
+                    Console.ReadLine();
                     return;
                 }
 
