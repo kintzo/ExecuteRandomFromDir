@@ -31,10 +31,10 @@ namespace ExecuteRandomFromDir
                 switch (input)
                 {
                     case 1:
-                        createNewList();
+                        createList(false);
                         break;
                     case 2:
-                        addToList();
+                        createList(true);
                         break;
                     case 3:
                         selectExe();
@@ -51,50 +51,49 @@ namespace ExecuteRandomFromDir
             Console.WriteLine("3. Choose random .exe");
         }
 
-        static void createNewList()
+        static void createList(Boolean add)
         {
+            string foldersFileRead = File.ReadAllText("folders.txt");
+            var foldersList = foldersFileRead.Split('$').ToList();
+
             using (FolderBrowserDialog mainFolder = new FolderBrowserDialog())
             {
                 DialogResult result = mainFolder.ShowDialog();
 
-                if (result == DialogResult.OK)
+                if (add && foldersList.IndexOf(mainFolder.SelectedPath) > -1)
                 {
-                    File.WriteAllText("folders.txt", mainFolder.SelectedPath);
-
-                    string[] exefiles = GetAllSafeFiles(mainFolder.SelectedPath, "*.exe");
-
-                    string s = string.Join("$", exefiles);
-                    File.WriteAllText("output.txt", s);
-                }
-            }
-        }
-
-        static void addToList() {
-            string fileread = File.ReadAllText("folders.txt");
-            var folderList = fileread.Split('$').ToList();
-
-            using (FolderBrowserDialog mainFolder = new FolderBrowserDialog())
-            {
-                DialogResult result = mainFolder.ShowDialog();
-
-                if (folderList.IndexOf(mainFolder.SelectedPath) > -1) {
-                    Console.WriteLine("path already exists");
+                    Console.Clear();
+                    Console.WriteLine($"path \"{mainFolder.SelectedPath}\" already exists");
                     Console.ReadLine();
                     return;
                 }
 
                 if (result == DialogResult.OK)
                 {
-                    folderList.Add(mainFolder.SelectedPath);
-                    File.WriteAllText("folders.txt", string.Join("$", folderList));
+                    if (add) {
+                        foldersList.Add(mainFolder.SelectedPath);
+                        File.WriteAllText("folders.txt", string.Join("$", foldersList));
+                    }
+                    else File.WriteAllText("folders.txt", mainFolder.SelectedPath);
 
                     string[] exefiles = GetAllSafeFiles(mainFolder.SelectedPath, "*.exe");
 
-                    var exeList = fileread.Split('$').Where(x => x.Contains(".exe")).ToList();
-                    exeList.AddRange(exefiles);
+                    if (add)
+                    {
+                        string fileread = File.ReadAllText("output.txt");
+                        var exeList = fileread.Split('$').ToList();
 
-                    string s = string.Join("$", exeList);
-                    File.WriteAllText("output.txt", s);
+                        exeList.AddRange(exefiles);
+
+                        string s = string.Join("$", exeList);
+                        File.WriteAllText("output.txt", s);
+                    }
+                    else 
+                    {
+                        string s = string.Join("$", exefiles);
+                        File.WriteAllText("output.txt", s);
+                    }
+                    
                 }
             }
         }
@@ -104,7 +103,7 @@ namespace ExecuteRandomFromDir
             if (File.Exists("output.txt"))
             {
                 string fileread = File.ReadAllText("output.txt");
-                var exeList = fileread.Split('$').Where(x => x.Contains(".exe")).ToList();
+                var exeList = fileread.Split('$').ToList();
 
                 var random = new Random();
                 int index = random.Next(exeList.Count);
@@ -172,7 +171,7 @@ namespace ExecuteRandomFromDir
                         //asdasd
                         StartProcess(exeList[index]);
                     }
-                    catch (Exception ex) {
+                    catch (Exception) {
                         Console.Clear();
                         Console.WriteLine($"unnable to run exe => {exeList[index]}");
                         DeleteExeFromList(exeList, index);
