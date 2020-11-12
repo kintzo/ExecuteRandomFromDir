@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ExecuteRandomFromDir"
   ],
+  "SelectedNode": "\\ExecuteRandomFromDir.sln",
   "PreviewInSolutionExplorer": false
 }

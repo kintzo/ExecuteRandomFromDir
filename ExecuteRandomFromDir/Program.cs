@@ -169,6 +169,7 @@ namespace ExecuteRandomFromDir
                     Console.WriteLine($"executing exe => {exeList[index]}");
                     try  {
                         //System.Diagnostics.Process.Start(exeList[index]);
+                        //asdasd
                         StartProcess(exeList[index]);
                     }
                     catch (Exception ex) {
