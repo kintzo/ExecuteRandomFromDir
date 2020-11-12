@@ -148,14 +148,18 @@ namespace ExecuteRandomFromDir
             var i = 0;
             do
             {
-                string input = Console.ReadLine();
-                i = Convert.ToInt32(input);
+                try {
+                    string input = Console.ReadLine();
+                    i = Convert.ToInt32(input);
+                }
+                catch (Exception) { }            
             } while (i < 1 || i > 2);
 
             switch (i) {
                 case 1:
                     var canLaunch = true;
 
+                    Console.Clear();
                     Console.WriteLine($"executing exe => {exeList[index]}");
                     try  {
                         System.Diagnostics.Process.Start(exeList[index]);
@@ -193,6 +197,7 @@ namespace ExecuteRandomFromDir
                     break;
                 case 2:
                     DeleteExeFromList(exeList, index);
+                    Console.ReadLine();
                     break;
             }       
         }
@@ -210,7 +215,8 @@ namespace ExecuteRandomFromDir
         }
 
         static void DeleteExeFromList(List<string> exeList, int index) {
-            Console.WriteLine($"deleting exe => {exeList[index]}");
+            Console.Clear();
+            Console.WriteLine($"exe deleted => {exeList[index]}");
             var list = exeList.Where(x => x != exeList[index]).ToList();
             string s1 = string.Join("$", list);
             File.WriteAllText("output.txt", s1);

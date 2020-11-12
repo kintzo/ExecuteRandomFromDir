@@ -16,3 +16,4 @@ C:\Users\gkint\Source\Repos\kintzo\ExecuteRandomFromDir\ExecuteRandomFromDir\bin
 C:\Users\gkint\Source\Repos\kintzo\ExecuteRandomFromDir\ExecuteRandomFromDir\obj\Debug\ExecuteRandomFromDir.csproj.CoreCompileInputs.cache
 C:\Users\gkint\Source\Repos\kintzo\ExecuteRandomFromDir\ExecuteRandomFromDir\obj\Debug\ExecuteRandomFromDir.exe
 C:\Users\gkint\Source\Repos\kintzo\ExecuteRandomFromDir\ExecuteRandomFromDir\obj\Debug\ExecuteRandomFromDir.pdb
+C:\Users\gkint\Source\Repos\kintzo\ExecuteRandomFromDir\ExecuteRandomFromDir\obj\Debug\ExecuteRandomFromDir.csprojAssemblyReference.cache
