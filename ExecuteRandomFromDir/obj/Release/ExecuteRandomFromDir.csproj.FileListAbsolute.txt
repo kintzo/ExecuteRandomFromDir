@@ -1,0 +1,13 @@
+C:\Users\gkint\source\repos\ExecuteRandomFromDir\ExecuteRandomFromDir\bin\Release\ExecuteRandomFromDir.exe.config
+C:\Users\gkint\source\repos\ExecuteRandomFromDir\ExecuteRandomFromDir\bin\Release\ExecuteRandomFromDir.exe
+C:\Users\gkint\source\repos\ExecuteRandomFromDir\ExecuteRandomFromDir\bin\Release\ExecuteRandomFromDir.pdb
+C:\Users\gkint\source\repos\ExecuteRandomFromDir\ExecuteRandomFromDir\obj\Release\ExecuteRandomFromDir.csproj.CoreCompileInputs.cache
+C:\Users\gkint\source\repos\ExecuteRandomFromDir\ExecuteRandomFromDir\obj\Release\ExecuteRandomFromDir.exe
+C:\Users\gkint\source\repos\ExecuteRandomFromDir\ExecuteRandomFromDir\obj\Release\ExecuteRandomFromDir.pdb
+C:\Users\Sadmin\Desktop\ExecuteRandomFromDir\ExecuteRandomFromDir\obj\Release\ExecuteRandomFromDir.csprojAssemblyReference.cache
+C:\Users\Sadmin\Desktop\ExecuteRandomFromDir\ExecuteRandomFromDir\obj\Release\ExecuteRandomFromDir.csproj.CoreCompileInputs.cache
+C:\Users\Sadmin\Desktop\ExecuteRandomFromDir\ExecuteRandomFromDir\obj\Release\ExecuteRandomFromDir.exe
+C:\Users\Sadmin\Desktop\ExecuteRandomFromDir\ExecuteRandomFromDir\obj\Release\ExecuteRandomFromDir.pdb
+C:\Users\Sadmin\Desktop\ExecuteRandomFromDir\ExecuteRandomFromDir\bin\Release\ExecuteRandomFromDir.exe.config
+C:\Users\Sadmin\Desktop\ExecuteRandomFromDir\ExecuteRandomFromDir\bin\Release\ExecuteRandomFromDir.exe
+C:\Users\Sadmin\Desktop\ExecuteRandomFromDir\ExecuteRandomFromDir\bin\Release\ExecuteRandomFromDir.pdb
