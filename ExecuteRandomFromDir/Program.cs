@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Windows.Forms;
+using System.Diagnostics;
 
 namespace ExecuteRandomFromDir
 {
@@ -110,6 +111,11 @@ namespace ExecuteRandomFromDir
 
                 manageExe(exeList, index);
             }
+            else {
+                Console.Clear();
+                Console.WriteLine("File list not found");
+                Console.ReadLine();
+            }
         }
 
         public static string[] GetAllSafeFiles(string path, string searchPattern = "*.*")
@@ -162,10 +168,11 @@ namespace ExecuteRandomFromDir
                     Console.Clear();
                     Console.WriteLine($"executing exe => {exeList[index]}");
                     try  {
-                        System.Diagnostics.Process.Start(exeList[index]);
-                        //StartProcess(exeList[index]);
+                        //System.Diagnostics.Process.Start(exeList[index]);
+                        StartProcess(exeList[index]);
                     }
-                    catch (Exception) {
+                    catch (Exception ex) {
+                        Console.Clear();
                         Console.WriteLine($"unnable to run exe => {exeList[index]}");
                         DeleteExeFromList(exeList, index);
                         canLaunch = false;
@@ -188,6 +195,7 @@ namespace ExecuteRandomFromDir
                             catch (Exception) { }
 
                             if (input == 2) {
+                                Console.Clear();
                                 DeleteExeFromList(exeList, index);
                             } 
                         } while (input < 1 || input > 2);
@@ -196,6 +204,7 @@ namespace ExecuteRandomFromDir
                     Console.ReadLine();
                     break;
                 case 2:
+                    Console.Clear();
                     DeleteExeFromList(exeList, index);
                     Console.ReadLine();
                     break;
@@ -203,19 +212,18 @@ namespace ExecuteRandomFromDir
         }
 
         static void StartProcess(string exeFile) {
-            System.Diagnostics.Process p = new System.Diagnostics.Process();
-            // Redirect the output stream of the child process.
-            p.StartInfo.UseShellExecute = false;
-            p.StartInfo.RedirectStandardOutput = true;
-            p.StartInfo.FileName = "cmd.exe";
-            p.StartInfo.Arguments = "/C " + exeFile;
-            p.StartInfo.CreateNoWindow = true;
-            p.Start();
-            p.WaitForExit();
+            ProcessStartInfo processInfo = new ProcessStartInfo();
+            processInfo.FileName = exeFile;
+            processInfo.WorkingDirectory = Path.GetDirectoryName(exeFile);
+            processInfo.ErrorDialog = true;
+            processInfo.UseShellExecute = false;
+            processInfo.RedirectStandardOutput = false;
+            processInfo.RedirectStandardError = false;
+            Process.Start(processInfo);
+            //p.WaitForExit();
         }
 
         static void DeleteExeFromList(List<string> exeList, int index) {
-            Console.Clear();
             Console.WriteLine($"exe deleted => {exeList[index]}");
             var list = exeList.Where(x => x != exeList[index]).ToList();
             string s1 = string.Join("$", list);
