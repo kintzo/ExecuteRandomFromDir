@@ -81,7 +81,7 @@ namespace ExecuteRandomFromDir
                     if (add)
                     {
                         string fileread = File.ReadAllText("output.txt");
-                        var exeList = fileread.Split('$').ToList();
+                        List<string> exeList = fileread.Split('$').ToList();
 
                         exeList.AddRange(exefiles);
 
