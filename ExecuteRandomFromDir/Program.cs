@@ -227,8 +227,7 @@ namespace ExecuteRandomFromDir
         static void DeleteExeFromList(List<string> exeList, int index) {
             Console.WriteLine($"exe deleted => {exeList[index]}");
             var list = exeList.Where(x => x != exeList[index]).ToList();
-            string s1 = string.Join("$", list);
-            File.WriteAllText("output.txt", s1);
+            File.WriteAllLines("output.txt", exeList);
         }
     }
 }
