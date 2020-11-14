@@ -53,7 +53,7 @@ namespace ExecuteRandomFromDir
 
         static void createList(Boolean add)
         {
-            string foldersFileRead = File.ReadAllText("folders.txt");
+            string foldersFileRead = File.Exists("folders.txt") ? File.ReadAllText("folders.txt") : "";
             var foldersList = foldersFileRead.Split('$').ToList();
 
             using (FolderBrowserDialog mainFolder = new FolderBrowserDialog())
@@ -139,6 +139,13 @@ namespace ExecuteRandomFromDir
 
         private static bool IsIgnorable(string dir)
         {
+            if (File.Exists("BlackList.txt")) {
+                var blacklist = File.ReadAllLines("BlackList.txt").ToList();
+                for (int i = 0; i< blacklist.Count; i++) {
+                    if (dir.Contains(blacklist[i])) return true;
+                }
+            }
+
             if (dir.EndsWith("System Volume Information")) return true;
             if (dir.Contains("$RECYCLE.BIN")) return true;
             return false;
