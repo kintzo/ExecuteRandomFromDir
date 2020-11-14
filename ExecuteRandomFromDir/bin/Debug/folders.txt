@@ -1,1 +1,3 @@
-D:\games$D:\programs
+D:\games
+D:\OSs
+D:\public

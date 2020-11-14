@@ -53,8 +53,7 @@ namespace ExecuteRandomFromDir
 
         static void createList(Boolean add)
         {
-            string foldersFileRead = File.Exists("folders.txt") ? File.ReadAllText("folders.txt") : "";
-            var foldersList = foldersFileRead.Split('$').ToList();
+            var foldersList = File.Exists("folders.txt") ? File.ReadAllLines("folders.txt").ToList() : new List<string>();
 
             using (FolderBrowserDialog mainFolder = new FolderBrowserDialog())
             {
@@ -72,7 +71,7 @@ namespace ExecuteRandomFromDir
                 {
                     if (add) {
                         foldersList.Add(mainFolder.SelectedPath);
-                        File.WriteAllText("folders.txt", string.Join("$", foldersList));
+                        File.WriteAllLines("folders.txt", foldersList);
                     }
                     else File.WriteAllText("folders.txt", mainFolder.SelectedPath);
 
@@ -80,19 +79,12 @@ namespace ExecuteRandomFromDir
 
                     if (add)
                     {
-                        string fileread = File.ReadAllText("output.txt");
-                        List<string> exeList = fileread.Split('$').ToList();
+                        List<string> exeList = File.ReadAllLines("output.txt").ToList();
 
                         exeList.AddRange(exefiles);
-
-                        string s = string.Join("$", exeList);
-                        File.WriteAllText("output.txt", s);
+                        File.WriteAllLines("output.txt", exeList);
                     }
-                    else 
-                    {
-                        string s = string.Join("$", exefiles);
-                        File.WriteAllText("output.txt", s);
-                    }
+                    else File.WriteAllLines("output.txt", exefiles);
                     
                 }
             }
