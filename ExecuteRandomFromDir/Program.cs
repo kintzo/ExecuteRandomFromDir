@@ -114,6 +114,19 @@ namespace ExecuteRandomFromDir
             List<string> allFiles = new List<string>();
             string[] root = Directory.GetFiles(path, searchPattern);
             allFiles.AddRange(root);
+            allFiles = allFiles.Where((x) =>
+            {
+                if (File.Exists("BlackList.txt"))
+                {
+                    var blacklist = File.ReadAllLines("BlackList.txt").ToList();
+                    for (int i = 0; i < blacklist.Count; i++)
+                    {
+                        if (x.Contains(blacklist[i])) return false;
+                    }
+                    return true;
+                }
+                else return true;
+            }).ToList();
             string[] folders = Directory.GetDirectories(path);
             foreach (string folder in folders)
             {
@@ -131,13 +144,6 @@ namespace ExecuteRandomFromDir
 
         private static bool IsIgnorable(string dir)
         {
-            if (File.Exists("BlackList.txt")) {
-                var blacklist = File.ReadAllLines("BlackList.txt").ToList();
-                for (int i = 0; i< blacklist.Count; i++) {
-                    if (dir.Contains(blacklist[i])) return true;
-                }
-            }
-
             if (dir.EndsWith("System Volume Information")) return true;
             if (dir.Contains("$RECYCLE.BIN")) return true;
             return false;
@@ -218,7 +224,7 @@ namespace ExecuteRandomFromDir
             processInfo.UseShellExecute = false;
             processInfo.RedirectStandardOutput = false;
             processInfo.RedirectStandardError = false;
-            Process.Start(processInfo);
+            System.Diagnostics.Process.Start(processInfo);
             //p.WaitForExit();
         }
 
