@@ -121,7 +121,7 @@ namespace ExecuteRandomFromDir
                     var blacklist = File.ReadAllLines("BlackList.txt").ToList();
                     for (int i = 0; i < blacklist.Count; i++)
                     {
-                        if (x.Contains(blacklist[i])) return false;
+                        if (x.ToUpper().Contains(blacklist[i].ToUpper())) return false;
                     }
                     return true;
                 }
