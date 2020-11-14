@@ -94,12 +94,8 @@ namespace ExecuteRandomFromDir
         {
             if (File.Exists("output.txt"))
             {
-                string fileread = File.ReadAllText("output.txt");
-                var exeList = fileread.Split('$').ToList();
-
-                var random = new Random();
-                int index = random.Next(exeList.Count);
-
+                var exeList = File.ReadAllLines("output.txt").ToList();
+                int index = new Random().Next(exeList.Count);
                 manageExe(exeList, index);
             }
             else {
