@@ -128,18 +128,14 @@ namespace ExecuteRandomFromDir
                 catch { } // Don't know what the problem is, don't care...
             }
 
+            var blacklist = File.Exists("BlackList.txt") ? File.ReadAllLines("BlackList.txt").ToList() : new List<string>();
             allFiles = allFiles.Where((x) =>
             {
-                if (File.Exists("BlackList.txt"))
+                for (int i = 0; i < blacklist.Count; i++)
                 {
-                    var blacklist = File.ReadAllLines("BlackList.txt").ToList();
-                    for (int i = 0; i < blacklist.Count; i++)
-                    {
-                        if (x.ToUpper().Contains(blacklist[i].ToUpper())) return false;
-                    }
-                    return true;
+                    if (x.ToUpper().Contains(blacklist[i].ToUpper())) return false;
                 }
-                else return true;
+                return true;
             }).ToList();
 
             return allFiles.ToArray();

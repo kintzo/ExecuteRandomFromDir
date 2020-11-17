@@ -1,0 +1,734 @@
+E:\AT-Launcher\ATLauncher.exe
+E:\AT-Launcher\configs\tools\getMemory-x64.exe
+E:\AT-Launcher\configs\tools\getMemory.exe
+E:\Battle.net\Battle.net Launcher.exe
+E:\Battle.net\Battle.net.exe
+E:\Battle.net\Battle.net.12375\BlizzardError.exe
+E:\Battle.net\Battle.net.12437\BlizzardError.exe
+E:\Battle.net\Hearthstone\Hearthstone Beta Launcher.exe
+E:\Battle.net\Hearthstone\Hearthstone.exe
+E:\Battle.net\Hearthstone\Hearthstone_Data\BlizzardBrowser\BlizzardBrowser.exe
+E:\Games\Age of Mythology - Titans\AoM.eXe
+E:\Games\Age of Mythology - Titans\aomx.exe
+E:\Games\Age of Mythology - Titans\aomxnocd.exe
+E:\Games\Age of Mythology - Titans\autopatcher.exe
+E:\Games\Age of Mythology - Titans\autopatcherx.exe
+E:\Games\Age of Mythology - Titans\chktrust.exe
+E:\Games\Age of Mythology - Titans\dw15.exe
+E:\Games\Age of Mythology - Titans\gfxinfo.exe
+E:\Games\Age of Mythology - Titans\instapup.exe
+E:\Games\Age of Mythology - Titans\instapux.exe
+E:\Games\Age of Mythology - Titans\movieplayer.exe
+E:\Games\Age of Mythology - Titans\mythxpak.exe
+E:\Games\Age of Mythology - Titans\setupreg.exe
+E:\Games\Age of Mythology Extended Edition\aomx.exe
+E:\Games\Age of Mythology Extended Edition\Launcher.exe
+E:\Games\Age of Mythology Extended Edition\movieplayer.exe
+E:\Games\Age of Mythology Extended Edition\tools\TextureCompiler.exe
+E:\Games\Age of Mythology Extended Edition\tools\TextureExtractor.exe
+E:\Games\Age of Mythology Extended Edition\tools\TextureCompiler_v2\TextureCompiler.exe
+E:\Games\Alice. Madness Returns\unins000.exe
+E:\Games\Alice. Madness Returns\Binaries\Win32\AliceMadnessReturns.exe
+E:\Games\Alice. Madness Returns\Binaries\Win32\Core\activation.exe
+E:\Games\Alice. Madness Returns\Binaries\Win32\Core\EACoreServer.exe
+E:\Games\Alice. Madness Returns\Binaries\Win32\Core\EAProxyInstaller.exe
+E:\Games\Alice. Madness Returns\Binaries\Win32\Core\PatchProgress.exe
+E:\Games\Cities XXL\ArtistSuiteSetup.10.4.0.14.exe
+E:\Games\Cities XXL\CitiesXXL.exe
+E:\Games\Cities XXL\DirTool.exe
+E:\Games\Cities XXL\UGCManager.exe
+E:\Games\Cities XXL\unins000.exe
+E:\Games\Cities XXL\_CommonRedist\DirectX\Jun2010\DXSETUP.exe
+E:\Games\Cities XXL\_CommonRedist\DotNet\4.5.1\NDP451-KB2872776-x86-x64-AllOS-ENU.exe
+E:\Games\Cities XXL\_CommonRedist\vcredist\2010\vcredist_x64.exe
+E:\Games\Cities XXL\_CommonRedist\vcredist\2010\vcredist_x86.exe
+E:\Games\Cities XXL\_CommonRedist\vcredist\2013\vcredist_x64.exe
+E:\Games\Cities XXL\_CommonRedist\vcredist\2013\vcredist_x86.exe
+E:\Games\Cuphead\Cuphead.exe
+E:\Games\Cuphead\unins000.exe
+E:\Games\Cuphead\_CommonRedist\DirectX\Jun2010\DXSETUP.exe
+E:\Games\DOOM\DOOMx64.exe
+E:\Games\DOOM\DOOMx64vk.exe
+E:\Games\DOOM\x360ce.exe
+E:\Games\Insaniquarium Deluxe\Insaniquarium.exe
+E:\Games\Insaniquarium Deluxe\WinFish_Scr.exe
+E:\Games\Marvel - Ultimate Alliance\Game.exe
+E:\Games\Marvel - Ultimate Alliance\MUA.exe
+E:\Games\Marvel - Ultimate Alliance\unins000.exe
+E:\Games\Marvel - Ultimate Alliance\backup\Game.exe
+E:\Games\Marvel - Ultimate Alliance\backup\MUA.exe
+E:\Games\Marvel - Ultimate Alliance\backup\unins000.exe
+E:\Games\Marvel - Ultimate Alliance\openheroselect\WFA_MUA.exe
+E:\Games\Marvel - Ultimate Alliance\openheroselect\sys\xmlb-compile.exe
+E:\Games\Marvel VS Capcom - Infinite\MVCI\Binaries\Win64\x360ce_x64.exe
+E:\Games\Mass Effect Andromeda\MassEffectAndromeda.exe
+E:\Games\Mass Effect Andromeda\MassEffectAndromedaTrial.exe
+E:\Games\Mass Effect Andromeda\Core\ActivationUI.exe
+E:\Games\Mass Effect Andromeda\__Installer\Cleanup.exe
+E:\Games\Mass Effect Andromeda\__Installer\Touchup.exe
+E:\Games\Mass Effect Andromeda\__Installer\directx\redist\DXSETUP.exe
+E:\Games\Mass Effect Andromeda\__Installer\DLC\Deep_Space\__Installer\Cleanup.exe
+E:\Games\Mass Effect Andromeda\__Installer\DLC\Deep_Space\__Installer\Touchup.exe
+E:\Games\Mass Effect Andromeda\__Installer\DLC\Deluxe_Edition\__Installer\Cleanup.exe
+E:\Games\Mass Effect Andromeda\__Installer\DLC\Deluxe_Edition\__Installer\Touchup.exe
+E:\Games\Mass Effect Andromeda\__Installer\DLC\DLCSoundtrack\__Installer\Cleanup.exe
+E:\Games\Mass Effect Andromeda\__Installer\DLC\DLCSoundtrack\__Installer\Touchup.exe
+E:\Games\Mass Effect Andromeda\__Installer\vc\vc2010sp1\redist\vcredist_x64.exe
+E:\Games\Mass Effect Andromeda\__Installer\vc\vc2010sp1\redist\vcredist_x86.exe
+E:\Games\Mass Effect Andromeda\__Installer\vc\vc2012\redist\vcredist_x64.exe
+E:\Games\Mass Effect Andromeda\__Installer\vc\vc2012\redist\vcredist_x86.exe
+E:\Games\Mass Effect Andromeda\__Installer\vc\vc2013\redist\vcredist_x64.exe
+E:\Games\Mass Effect Andromeda\__Installer\vc\vc2013\redist\vcredist_x86.exe
+E:\Games\Monster Hunter - World\MonsterHunterWorld.exe
+E:\Games\Monster Hunter - World\unins000.exe
+E:\Games\Monster Hunter - World\NoDVD\Steamworks Fix\MonsterHunterWorld.exe
+E:\Games\Monster Hunter - World\_Redist\dxwebsetup.exe
+E:\Games\Monster Hunter - World\_Redist\QuickSFV.EXE
+E:\Games\Mushroom Wars v1.2\LAUNCHER.exe
+E:\Games\Mushroom Wars v1.2\MushroomWars.exe
+E:\Games\Mushroom Wars v1.2\Redist\oalinst.exe
+E:\Games\Mushroom Wars v1.2\Redist\vcredist_x64.exe
+E:\Games\Mushroom Wars v1.2\Redist\vcredist_x86.exe
+E:\Games\Observer\TheObserver.exe
+E:\Games\Observer\TheObserverSub.exe
+E:\Games\Observer\Engine\Binaries\Win64\CrashReportClient.exe
+E:\Games\Observer\GameGuide\QtWebEngineProcess.exe
+E:\Games\Observer\GameGuide\TheObserver.exe
+E:\Games\Observer\TheObserver\Binaries\Win64\TheObserver-Win64-Shipping.exe
+E:\Games\Observer\TheObserver\Binaries\Win64\TheObserver.exe
+E:\Games\Plague Inc  Evolved The Fake News\PlagueIncEvolved.exe
+E:\Games\Plague Inc  Evolved The Fake News\PlagueIncSC.exe
+E:\Games\Plague Inc  Evolved The Fake News\unins000.exe
+E:\Games\Plague Inc  Evolved The Fake News\_CommonRedist\DirectX\Jun2010\DXSETUP.exe
+E:\Games\Plague Inc  Evolved The Fake News\_CommonRedist\vcredist\2010\vcredist_x64.exe
+E:\Games\Plague Inc  Evolved The Fake News\_CommonRedist\vcredist\2010\vcredist_x86.exe
+E:\Games\Plague Inc  Evolved The Fake News\_CommonRedist\vcredist\2015\vc_redist.x64.exe
+E:\Games\Plague Inc  Evolved The Fake News\_CommonRedist\vcredist\2015\vc_redist.x86.exe
+E:\Games\rocketleague\Binaries\Win64\RocketLeague.exe
+E:\Games\Satisfactory.v118201\FactoryGame.exe
+E:\Games\Satisfactory.v118201\launcher.exe
+E:\Games\Satisfactory.v118201\Engine\Extras\Redist\en-us\UE4PrereqSetup_x64.exe
+E:\Games\Satisfactory.v118201\FactoryGame\Binaries\Win64\FactoryGame-Win64-Shipping.exe
+E:\Games\Shadow of the Tomb Raider\SOTTR.exe
+E:\Games\Shadow of the Tomb Raider\unins000.exe
+E:\Games\Shadow of the Tomb Raider\_Redist\dxwebsetup.exe
+E:\Games\Shadow of the Tomb Raider\_Redist\QuickSFV.EXE
+E:\Games\Shadow of the Tomb Raider\_Redist\vcredist_x64_2015_x64.exe
+E:\Games\Shadow of the Tomb Raider\_Redist\vcredist_x86_2015_x86.exe
+E:\Games\Space Engineers v01.181.061\Bin64\SeBrainRunner.exe
+E:\Games\Space Engineers v01.181.061\Bin64\SpaceEngineers.exe
+E:\Games\Space Engineers v01.181.061\DedicatedServer64\SpaceEngineersDedicated.exe
+E:\Games\Space Engineers v01.181.061\Tools\AdpcmEncode.exe
+E:\Games\Space Engineers v01.181.061\Tools\xWMAEncode.exe
+E:\Games\Space Engineers v01.181.061\Tools\Fonts\BMFontGen\bmfontgen.exe
+E:\Games\Space Engineers v01.181.061\Tools\Fonts\BMFontGen\XNA\SimpleFontTest\Build\SimpleFontTest.exe
+E:\Games\Space Engineers v01.181.061\Tools\MwmBuilder\MwmBuilder.exe
+E:\Games\Space Engineers v01.181.061\Tools\Space texture converter\Textures converter\TextureBuilder.exe
+E:\Games\Space Engineers v01.181.061\Tools\TestingTool\TestingTool.exe
+E:\Games\Space Engineers v01.181.061\Tools\TexturePacking\DilationForm.exe
+E:\Games\Space Engineers v01.181.061\Tools\TexturePacking\TexturePacking.exe
+E:\Games\Space Engineers v01.181.061\Tools\TexturePacking\Tools\texassemble.exe
+E:\Games\Space Engineers v01.181.061\Tools\TexturePacking\Tools\texconv.exe
+E:\Games\Space Engineers v01.181.061\Tools\VRageEditor\Bin\MwmBuilder.exe
+E:\Games\Space Engineers v01.181.061\Tools\VRageEditor\Bin\VRageEditor.exe
+E:\Games\Space Engineers v01.181.061\Tools\VRageEditor\Bin64\VRageEditor.exe
+E:\Games\Space Engineers v01.181.061\Tools\VRageEditor\Plugins\ModelBuilder\MwmBuilder.exe
+E:\Games\Space Engineers v01.181.061\Tools\VRageEditor\Plugins\ModelViewer\MwmBuilder.exe
+E:\Games\Spider-Man - Web of Shadows\image\pc\Spider-Man Launcher.exe
+E:\Games\Spider-Man - Web of Shadows\image\pc\Spider-Man Web of Shadows.exe
+E:\Games\Spider-Man - Web of Shadows\image\pc\x360ce.exe
+E:\Games\Spider-Man(TM) - Shattered Dimensions\Game.exe
+E:\Games\Spider-Man(TM) - Shattered Dimensions\Launcher.exe
+E:\Games\Spider-Man(TM) - Shattered Dimensions\Launcher_MC.exe
+E:\Games\Spider-Man(TM) - Shattered Dimensions\x360ce.exe
+E:\Games\Spiderman.Friend.or.Foe\SpiderMan - Friend Or Foe\Game.exe
+E:\Games\Spiderman.Friend.or.Foe\SpiderMan - Friend Or Foe\makeDesktopIcon.exe
+E:\Games\Spiderman.Friend.or.Foe\SpiderMan - Friend Or Foe\MC.exe
+E:\Games\Spiderman.Friend.or.Foe\SpiderMan - Friend Or Foe\Spider-Man Friend Or Foe.exe
+E:\Games\Spiderman.Friend.or.Foe\SpiderMan - Friend Or Foe\x360ce.exe
+E:\Games\Subnautica\Subnautica.exe
+E:\Games\Subnautica\Subnautica32.exe
+E:\Games\Subnautica\SubnauticaMonitor.exe
+E:\Games\Subnautica\_CommonRedist\vcredist\2013\vcredist_x64.exe
+E:\Games\Subnautica\_CommonRedist\vcredist\2013\vcredist_x86.exe
+E:\Games\Surviving Mars Space Race\Ged.exe
+E:\Games\Surviving Mars Space Race\MarsSteam.exe
+E:\Games\Surviving Mars Space Race\unins000.exe
+E:\Games\Surviving Mars Space Race\ModTools\ddstrunc.exe
+E:\Games\Surviving Mars Space Race\ModTools\hgimgcvt.exe
+E:\Games\Surviving Mars Space Race\ModTools\opusenc.exe
+E:\Games\Surviving Mars Space Race\ModTools\AssetsProcessor\AssetsProcessor.exe
+E:\Games\Surviving Mars Space Race\ModTools\AssetsProcessor\hgnvcompress.exe
+E:\Games\Surviving Mars Space Race\_CommonRedist\DirectX\Jun2010\DXSETUP.exe
+E:\Games\Surviving Mars Space Race\_CommonRedist\vcredist\2015\vc_redist.x64.exe
+E:\Games\Surviving Mars Space Race\_CommonRedist\vcredist\2015\vc_redist.x86.exe
+E:\Games\Surviving Mars Space Race\_CommonRedist\vcredist\2017\vc_redist.x64.exe
+E:\Games\Surviving Mars Space Race\_CommonRedist\vcredist\2017\vc_redist.x86.exe
+E:\Games\SurvivingMars\MarsEpic.exe
+E:\Games\SurvivingMars\ModTools\ddstrunc.exe
+E:\Games\SurvivingMars\ModTools\hgimgcvt.exe
+E:\Games\SurvivingMars\ModTools\opusenc.exe
+E:\Games\SurvivingMars\ModTools\AssetsProcessor\AssetsProcessor.exe
+E:\Games\SurvivingMars\ModTools\AssetsProcessor\hgnvcompress.exe
+E:\Games\The Amazing Spider-Man 2\ASM2Launcher.exe
+E:\Games\The Amazing Spider-Man 2\Game.exe
+E:\Games\The Binding of Isaac Afterbirth\isaac-ng.exe
+E:\Games\The Forest\SSELauncher.exe
+E:\Games\The Forest\TheForest.exe
+E:\Games\The Forest\TheForest32.exe
+E:\Games\The Forest\unins000.exe
+E:\Games\The Forest\modapi_20160910\modapi_20160910\ModAPI.exe
+E:\Games\The Forest\SmartSteamEmu\SmartSteamLoader.exe
+E:\Games\The Witcher 3 - Wild Hunt\unins000.exe
+E:\Games\The Witcher 3 - Wild Hunt\bin\x64\witcher3.exe
+E:\Games\The Witcher 3 - Wild Hunt\_Redist\dxwebsetup.exe
+E:\Games\The Witcher 3 - Wild Hunt\_Redist\QuickSFV.EXE
+E:\Games\The Witcher 3 - Wild Hunt\_Redist\vcredist_x64_2012_x64.exe
+E:\Games\The Witcher 3 - Wild Hunt\_Redist\vcredist_x64_2013_x64.exe
+E:\Games\The Witcher 3 - Wild Hunt\_Redist\vcredist_x86_2012_x86.exe
+E:\Games\The Witcher 3 - Wild Hunt\_Redist\vcredist_x86_2013_x86.exe
+E:\Games\TheStanleyParable\stanley.exe
+E:\Games\TheStanleyParable\_CommonRedist\DirectX\Jun2010\DXSETUP.exe
+E:\Games\TheStanleyParable\_CommonRedist\vcredist\2010\vcredist_x64.exe
+E:\Games\TheStanleyParable\_CommonRedist\vcredist\2010\vcredist_x86.exe
+E:\Games\Trover Saves the Universe\Trover.exe
+E:\Games\Trover Saves the Universe\Trover\Binaries\Win64\Trover-Win64-Shipping.exe
+E:\Games\Ultimate Spider-Man\USM.exe
+E:\Games\Ultimate Spider-Man\Docs\x360ce.exe
+E:\Games\Undertale\UNDERTALE.exe
+E:\Games\Wolfenstein - The New Order\WolfNewOrder_x64.exe
+E:\Games\Wolfenstein - The New Order\x360ce_x64.exe
+E:\Program Files\Adobe Dreamweaver CC 2019\AAMLauncherUtil.exe
+E:\Program Files\Adobe Dreamweaver CC 2019\Dreamweaver.exe
+E:\Program Files\Adobe Dreamweaver CC 2019\DreamweaverHelper.exe
+E:\Program Files\Adobe Dreamweaver CC 2019\DreamweaverImageHelper.exe
+E:\Program Files\Adobe Dreamweaver CC 2019\LogTransport2.exe
+E:\Program Files\Adobe Dreamweaver CC 2019\configuration\CEP\CEPHtmlEngine\Win\CEPHtmlEngine.exe
+E:\Program Files\Adobe Dreamweaver CC 2019\node\node.exe
+E:\Program Files\Adobe Dreamweaver CC 2019\ruby\bin\ruby.exe
+E:\Program Files\Adobe Dreamweaver CC 2019\ruby\bin\rubyw.exe
+E:\Program Files\Adobe Dreamweaver CC 2019\www\filesystem\impls\appshell\node\win32\CodeHelper.exe
+E:\Program Files\BlueStacks\Client\Bluestacks.exe
+E:\Program Files\BlueStacks\Client\BlueStacksClientUninstaller.exe
+E:\Program Files\BlueStacks\Client\Keymapui.exe
+E:\Program Files\BlueStacks\Client\Helper\BlueStacksHelper.exe
+E:\Program Files\Borderless Gaming\BorderlessGaming.exe
+E:\Program Files\Borderless Gaming\_CommonRedist\DotNet\4.5.1\NDP451-KB2872776-x86-x64-AllOS-ENU.exe
+E:\Program Files\Eclipse Mars\eclipse\eclipse.exe
+E:\Program Files\Eclipse Mars\eclipse\eclipsec.exe
+E:\Program Files\emu8086\emu8086.exe
+E:\Program Files\emu8086\unins000.exe
+E:\Program Files\emu8086\DEVICES\LED_Display.exe
+E:\Program Files\emu8086\DEVICES\Printer.exe
+E:\Program Files\emu8086\DEVICES\Robot.exe
+E:\Program Files\emu8086\DEVICES\Simple.exe
+E:\Program Files\emu8086\DEVICES\Stepper_motor.exe
+E:\Program Files\emu8086\DEVICES\Thermometer.exe
+E:\Program Files\emu8086\DEVICES\Traffic_Lights.exe
+E:\Program Files\emu8086\DEVICES\VGA_STATE.exe
+E:\Program Files\emu8086\fasm\FASM.EXE
+E:\Program Files\glassfish-4.1.1\uninstall.exe
+E:\Program Files\glassfish-4.1.1\mq\bin\imqadmin.exe
+E:\Program Files\glassfish-4.1.1\mq\bin\imqbridgemgr.exe
+E:\Program Files\glassfish-4.1.1\mq\bin\imqbrokerd.exe
+E:\Program Files\glassfish-4.1.1\mq\bin\imqbrokersvc.exe
+E:\Program Files\glassfish-4.1.1\mq\bin\imqcmd.exe
+E:\Program Files\glassfish-4.1.1\mq\bin\imqdbmgr.exe
+E:\Program Files\glassfish-4.1.1\mq\bin\imqkeytool.exe
+E:\Program Files\glassfish-4.1.1\mq\bin\imqobjmgr.exe
+E:\Program Files\glassfish-4.1.1\mq\bin\imqsvcadmin.exe
+E:\Program Files\glassfish-4.1.1\mq\bin\imqusermgr.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Blend\Blend.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Blend\Microsoft.Expression.WebServer.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Blend\XDesProc.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\BuildNotificationApp.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\DDConfigCA.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\Microsoft.VisualStudio.Web.Host.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\PerfWatson2.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\TailoredDeploy.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\TCM.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\TF.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\TfsAdmin.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\TFSBuild.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\TFSDeleteProject.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\TFSLabConfig.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\TFSSecurity.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\UserControlTestContainer.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\vsdiag_regwcf.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\vsDiffMerge.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\VsGd.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\vshost-clr2.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\vshost.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\vshost32-clr2.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\vshost32.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\VSIXInstaller.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\vsn.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\VSTST-FileConverter.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\VSWebHandler.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\VSWinExpress.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\witadmin.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\XDesProc.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\PowerProfiler\Platform\DisplayPowerDataCollectionAgent.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\PowerProfiler\Platform\DisplayPowerDataCollectionAgentLauncher.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\ProductUpdate\WPEmulator\8.1\InstallPhoneEmulator81.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\TailoredProjectServices\PrepWinACK.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\ActivateApplication.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.console.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.discoveryengine.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.discoveryengine.x86.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.executionengine.clr20.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.executionengine.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.executionengine.x86.clr20.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.executionengine.x86.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Microsoft\WebClient\Language Service\jsgen.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\CommonExtensions\Platform\DiagnosticsHub\VsStandardCollector.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\VsGraphics\vsgraphics.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\Extensions\Microsoft\VsGraphics\VsGraphicsDesktopEngine.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\PrivateAssemblies\ScriptedSandbox32.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\Packages\Debugger\VsDebugLaunchNotify.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\Packages\Debugger\Services\VsEtwService.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\Packages\Debugger\X64\msvsmon.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\Packages\Debugger\X64\TailoredDeploy.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\Packages\Debugger\X64\VsGraphicsRemoteEngine.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\Tools\errlook.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\Tools\guidgen.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\Tools\makehm.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Common7\Tools\vcupgrade.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Team Tools\Performance Tools\VSPerf.exe
+E:\Program Files\Microsoft Visual Studio 12.0\Team Tools\Static Analysis Tools\FxCop\FxCopCmd.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\bscmake.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\cl.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\cvtres.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\dumpbin.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\editbin.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\lib.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\ml.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\mspdbsrv.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\nmake.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\undname.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\xdcmake.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64\bscmake.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64\cl.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64\cvtres.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64\dumpbin.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64\editbin.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64\lib.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64\link.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64\ml64.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64\mspdbsrv.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64\nmake.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64\undname.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64\xdcmake.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64_arm\armasm.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64_arm\cl.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64_arm\dumpbin.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64_arm\editbin.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64_arm\lib.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64_arm\link.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64_arm\pgomgr.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64_x86\cl.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64_x86\dumpbin.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64_x86\editbin.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64_x86\lib.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64_x86\link.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64_x86\ml.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\amd64_x86\pgomgr.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\cl.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\dumpbin.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\editbin.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\lib.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\ml64.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_arm\armasm.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_arm\cl.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_arm\dumpbin.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_arm\editbin.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_arm\lib.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_arm\link.exe
+E:\Program Files\Microsoft Visual Studio 12.0\VC\vcpackages\vcpkgsrv.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Blend.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\BuildNotificationApp.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\DDConfigCA.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\devenv.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\DTAAgentExecutionService.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\DTAExecutionHost.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\FeedbackCollector.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Microsoft.VisualStudio.Web.Host.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\mspdbsrv.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\MSTest.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\PerfWatson2.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Publicize.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\QTAgent.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\QTAgent32.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\QTAgent32_35.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\QTAgent32_40.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\QTAgentService.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\QTAgent_35.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\QTAgent_40.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\QTDCAgent.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\QTDCAgent32.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\StorePID.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\T4VSHostProcess.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\TailoredDeploy.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\TCM.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\TestAgentConfig.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\TF.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\TfsAdmin.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\TFSBuild.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\TfsDeleteProject.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\TfsLabConfig.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\TFSSecurity.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\UserControlTestContainer.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\vb7to8.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\VsDebugWERHelper.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\vsdiag_regwcf.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\vsDiffMerge.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\VsGa.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\vshost-clr2.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\vshost.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\vshost32-clr2.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\vshost32.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\VSIXAutoUpdate.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\VSIXInstaller.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\VSLaunchBrowser.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\vsn.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\VSTestConfig.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\VSTST-FileConverter.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\VSWebHandler.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\WcfSvcHost.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\WcfTestClient.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\witadmin.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\XDesProc.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\PowerProfiler\Platform\DisplayPowerDataCollectionAgent.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\PowerProfiler\Platform\DisplayPowerDataCollectionAgentLauncher.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\ProductUpdate\WPEmulator\8.1\InstallPhoneEmulator81.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TailoredProjectServices\PrepWinACK.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\ActivateApplication.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\TE.ProcessHost.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\TE.ProcessHost.Managed.Clr20.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\TE.ProcessHost.Managed.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.console.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.discoveryengine.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.discoveryengine.x86.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.executionengine.clr20.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.executionengine.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.executionengine.x86.clr20.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.executionengine.x86.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\x64\TE.ProcessHost.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\x64\TE.ProcessHost.Managed.Clr20.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\TestWindow\x64\TE.ProcessHost.Managed.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Microsoft\WebClient\Language Service\jsgen.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\CommonExtensions\Platform\DiagnosticsHub\VsStandardCollector.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Entity Framework Tools\NuGet Packages\EntityFramework.5.0.0\tools\migrate.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Entity Framework Tools\NuGet Packages\EntityFramework.6.1.3\tools\migrate.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Graphics\Debugger\EnableGraphicsTools.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Graphics\Debugger\VsGraphicsDesktopEngine.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\SQLDB\DAC\120\dacunpack.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\SQLDB\DAC\120\sqlpackage.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\SQLDB\DAC\130\dacunpack.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\SQLDB\DAC\130\sqlpackage.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\VsGraphics\vsgraphics.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\VsGraphics\VsGraphicsDesktopEngine.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Web Tools\External\git\git.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Web Tools\External\node\node.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Web Tools\Page Inspector\WebBrowserLauncher.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Microsoft\Web Tools\Page Inspector\WebBrowserServer.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\PrivateAssemblies\InteractiveHost.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\PrivateAssemblies\NEInstX64.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\PrivateAssemblies\ScriptedSandbox32.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\PrivateAssemblies\ScriptedSandbox64.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Remote Debugger\Appx\AppxDebugSysTray.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Remote Debugger\x64\msvsmon.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Remote Debugger\x64\TailoredDeploy.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Remote Debugger\x64\VsDebugLaunchNotify.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Remote Debugger\x64\VsDebugWERHelper.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Remote Debugger\x64\VsGraphicsRemoteEngine.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Remote Debugger\x86\msvsmon.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Remote Debugger\x86\TailoredDeploy.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Remote Debugger\x86\VsDebugLaunchNotify.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Remote Debugger\x86\VsDebugWERHelper.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Remote Debugger\x86\VsGraphicsRemoteEngine.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\IDE\Xml\Microsoft.XslDebugger.Host.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\Packages\Debugger\VsDebugLaunchNotify.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\Tools\errlook.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\Tools\guidgen.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\Tools\makehm.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\Tools\spyxx.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\Tools\spyxx_amd64.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Common7\Tools\vcupgrade.exe
+E:\Program Files\Microsoft Visual Studio 14.0\PreEmptive Solutions\Dotfuscator and Analytics Community Edition\dotfuscator.exe
+E:\Program Files\Microsoft Visual Studio 14.0\PreEmptive Solutions\Dotfuscator and Analytics Community Edition\dotfuscatorCLI.exe
+E:\Program Files\Microsoft Visual Studio 14.0\PreEmptive Solutions\Dotfuscator and Analytics Community Edition\TamperTester.exe
+E:\Program Files\Microsoft Visual Studio 14.0\PreEmptive Solutions\Dotfuscator and Analytics Community Edition\samples\HelloWorld\HelloWorld.exe
+E:\Program Files\Microsoft Visual Studio 14.0\PreEmptive Solutions\Dotfuscator and Analytics Community Edition\samples\HelloWorld\dotfuscated\HelloWorld.exe
+E:\Program Files\Microsoft Visual Studio 14.0\SDK\Bootstrapper\Packages\SqlExpress2008R2\SqlExpressChk.exe
+E:\Program Files\Microsoft Visual Studio 14.0\SDK\Bootstrapper\Packages\SqlExpress2012\SqlExpressChk.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Team Tools\DiagnosticsHub\Collector\StandardCollector.Service.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Team Tools\DiagnosticsHub\Collector\VSDiagnostics.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Team Tools\Performance Tools\vsinstr.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Team Tools\Performance Tools\VSPerf.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Team Tools\Performance Tools\VSPerfASPNetCmd.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Team Tools\Performance Tools\VSPerfCmd.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Team Tools\Performance Tools\VSPerfMon.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Team Tools\Performance Tools\VSPerfReport.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Team Tools\Performance Tools\VSPerfSrv.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Team Tools\Performance Tools\Setups\vs_profiler_x64_enu.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Team Tools\Performance Tools\Setups\vs_profiler_x86_enu.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Team Tools\Performance Tools\x64\vsinstr.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Team Tools\Performance Tools\x64\VSPerfCmd.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Team Tools\Performance Tools\x64\VSPerfMon.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Team Tools\Performance Tools\x64\VSPerfSrv.exe
+E:\Program Files\Microsoft Visual Studio 14.0\Team Tools\Static Analysis Tools\FxCop\FxCopCmd.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\bscmake.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\cl.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\cvtres.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\dumpbin.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\editbin.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\ifc.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\lib.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\link.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\ml.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\mspdbcmf.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\mspdbsrv.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\nmake.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\pgocvt.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\pgomgr.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\pgosweep.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\undname.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\vctip.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\xdcmake.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64\bscmake.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64\cl.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64\cvtres.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64\dumpbin.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64\editbin.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64\lib.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64\link.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64\ml64.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64\mspdbsrv.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64\nmake.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64\pgocvt.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64\pgomgr.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64\pgosweep.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64\undname.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64\vctip.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64\xdcmake.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64_arm\armasm.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64_arm\cl.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64_arm\dumpbin.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64_arm\editbin.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64_arm\lib.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64_arm\link.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64_arm\pgomgr.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64_arm\vctip.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64_x86\cl.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64_x86\dumpbin.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64_x86\editbin.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64_x86\lib.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64_x86\link.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64_x86\ml.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64_x86\pgomgr.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\amd64_x86\vctip.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\arm\pgosweep.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\cl.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\dumpbin.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\editbin.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\lib.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\ml64.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\pgomgr.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\vctip.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_arm\armasm.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_arm\cl.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_arm\dumpbin.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_arm\editbin.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_arm\lib.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_arm\link.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_arm\pgomgr.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\bin\x86_arm\vctip.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\lib\store\references\msbldver.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\redist\1033\vcredist_arm.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\redist\1033\vcredist_x64.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\redist\1033\vcredist_x86.exe
+E:\Program Files\Microsoft Visual Studio 14.0\VC\vcpackages\vcpkgsrv.exe
+E:\Program Files\MultiMC\MultiMC.exe
+E:\Program Files\MultiMC\instances\GalactiCraft\minecraft\jcef_helper.exe
+E:\Program Files\MultiMC\update\backup\MultiMC.exe
+E:\Program Files\NetBeans 8.1\uninstall.exe
+E:\Program Files\NetBeans 8.1\bin\netbeans.exe
+E:\Program Files\NetBeans 8.1\bin\netbeans64.exe
+E:\Program Files\NetBeans 8.1\cnd\bin\GdbKillProc.exe
+E:\Program Files\NetBeans 8.1\cnd\update\backup\netbeans\bin\GdbKillProc.exe
+E:\Program Files\NetBeans 8.1\harness\launchers\app.exe
+E:\Program Files\NetBeans 8.1\harness\launchers\app64.exe
+E:\Program Files\NetBeans 8.1\harness\launchers\pre7_app.exe
+E:\Program Files\NetBeans 8.1\harness\launchers\pre7_app_w.exe
+E:\Program Files\NetBeans 8.1\javacard\JCDK3.0.2_ConnectedEdition\bin\cjcre.exe
+E:\Program Files\NetBeans 8.1\platform\lib\nbexec.exe
+E:\Program Files\NetBeans 8.1\platform\lib\nbexec64.exe
+E:\Program Files\Nox\bin\7za.exe
+E:\Program Files\Nox\bin\aapt.exe
+E:\Program Files\Nox\bin\adb.exe
+E:\Program Files\Nox\bin\AudioRouter.exe
+E:\Program Files\Nox\bin\kntd32.exe
+E:\Program Files\Nox\bin\kntd64.exe
+E:\Program Files\Nox\bin\MultiPlayerManager.exe
+E:\Program Files\Nox\bin\naction.exe
+E:\Program Files\Nox\bin\NetBridgeInstaller.exe
+E:\Program Files\Nox\bin\nox-tool.exe
+E:\Program Files\Nox\bin\Nox.exe
+E:\Program Files\Nox\bin\NoxConsole.exe
+E:\Program Files\Nox\bin\NoxPack.exe
+E:\Program Files\Nox\bin\NoxPopup.exe
+E:\Program Files\Nox\bin\NoxRehoming.exe
+E:\Program Files\Nox\bin\NoxRepair.exe
+E:\Program Files\Nox\bin\nox_adb.exe
+E:\Program Files\Nox\bin\Nox_unload.exe
+E:\Program Files\Nox\bin\nox_video_tool.exe
+E:\Program Files\Nox\bin\nvapi.exe
+E:\Program Files\Nox\bin\PadDriverInstaller.exe
+E:\Program Files\Nox\bin\png2ico.exe
+E:\Program Files\Nox\bin\portCheck.exe
+E:\Program Files\Nox\bin\ProcessKiller.exe
+E:\Program Files\Nox\bin\QtWebProcess.exe
+E:\Program Files\Nox\bin\regsvr.exe
+E:\Program Files\Nox\bin\unzipcomplete.exe
+E:\Program Files\Nox\bin\unzip_tool.exe
+E:\Program Files\Nox\bin\NoxSrv\NoxSrv.exe
+E:\Program Files\Nox\noxvm\NOXVM.exe
+E:\Program Files\RPCS3\rpcs3.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\installer.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\launcher.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\wallpaper32.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\wallpaper64.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\bin\applicationwallpaperinject32.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\bin\applicationwallpaperinject64.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\bin\diagnostics32.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\bin\diagnostics64.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\bin\resourcecompiler.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\bin\steamutil32.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\bin\ui32.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\bin\wallpaperservice32.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\bin\wallpaperservice32_c.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\bin\webwallpaper32.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\distribution\wallpaper32.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\distribution\wallpaper64.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\distribution\bin\applicationwallpaperinject32.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\distribution\bin\applicationwallpaperinject64.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\distribution\bin\diagnostics32.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\distribution\bin\diagnostics64.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\distribution\bin\resourcecompiler.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\distribution\bin\steamutil32.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\distribution\bin\ui32.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\distribution\bin\wallpaperservice32.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\distribution\bin\webwallpaper32.exe
+E:\Program Files\Wallpaper Engine v1.0.1394\projects\defaultprojects\841989172\wallpaper_MiaoMiao.exe
+E:\SteamLibrary\steamapps\common\Alien Isolation\AI.exe
+E:\SteamLibrary\steamapps\common\Alien Isolation\_CommonRedist\DirectX\Jun2010\DXSETUP.exe
+E:\SteamLibrary\steamapps\common\Alien Isolation\_CommonRedist\vcredist\2010\vcredist_x64.exe
+E:\SteamLibrary\steamapps\common\Alien Isolation\_CommonRedist\vcredist\2010\vcredist_x86.exe
+E:\SteamLibrary\steamapps\common\BioShock Remastered\_CommonRedist\DirectX\Jun2010\DXSETUP.exe
+E:\SteamLibrary\steamapps\common\BioShock Remastered\_CommonRedist\vcredist\2010\vcredist_x64.exe
+E:\SteamLibrary\steamapps\common\BioShock Remastered\_CommonRedist\vcredist\2010\vcredist_x86.exe
+E:\SteamLibrary\steamapps\common\BioShock Remastered\_CommonRedist\vcredist\2012\vcredist_x64.exe
+E:\SteamLibrary\steamapps\common\BioShock Remastered\_CommonRedist\vcredist\2012\vcredist_x86.exe
+E:\SteamLibrary\steamapps\common\Castle of Illusion\x360ce.exe
+E:\SteamLibrary\steamapps\common\Castle of Illusion\_CommonRedist\DirectX\Jun2010\DXSETUP.exe
+E:\SteamLibrary\steamapps\common\Castle of Illusion\_CommonRedist\vcredist\2010\vcredist_x64.exe
+E:\SteamLibrary\steamapps\common\Castle of Illusion\_CommonRedist\vcredist\2010\vcredist_x86.exe
+E:\SteamLibrary\steamapps\common\CM3\cm3.exe
+E:\SteamLibrary\steamapps\common\DiRT 3 Complete Edition\x360ce.exe
+E:\SteamLibrary\steamapps\common\DiRT 3 Complete Edition\_CommonRedist\DirectX\Jun2010\DXSETUP.exe
+E:\SteamLibrary\steamapps\common\eFootball PES 2020\1\x360ce_x64.exe
+E:\SteamLibrary\steamapps\common\Game of Thrones\_CommonRedist\DirectX\Jun2010\DXSETUP.exe
+E:\SteamLibrary\steamapps\common\GarrysMod\_CommonRedist\DirectX\Jun2010\DXSETUP.exe
+E:\SteamLibrary\steamapps\common\Left 4 Dead 2\left4dead2.exe
+E:\SteamLibrary\steamapps\common\Left 4 Dead 2\x360ce.exe
+E:\SteamLibrary\steamapps\common\Left 4 Dead 2\bin\addoninstaller.exe
+E:\SteamLibrary\steamapps\common\LEGO Lord of the Rings\LEGOLOTR.exe
+E:\SteamLibrary\steamapps\common\MK10\Binaries\Retail\MK10.exe
+E:\SteamLibrary\steamapps\common\MK10\Binaries\Retail\MKXLauncher.exe
+E:\SteamLibrary\steamapps\common\MK10\Binaries\Retail\x360ce_x64.exe
+E:\SteamLibrary\steamapps\common\MK10\_CommonRedist\DirectX\Jun2010\DXSETUP.exe
+E:\SteamLibrary\steamapps\common\MK10\_CommonRedist\vcredist\2012\vcredist_x64.exe
+E:\SteamLibrary\steamapps\common\MK10\_CommonRedist\vcredist\2012\vcredist_x86.exe
+E:\SteamLibrary\steamapps\common\PAYDAY 2\payday2_win32_release.exe
+E:\SteamLibrary\steamapps\common\PAYDAY 2\payday2_win32_release_vr.exe
+E:\SteamLibrary\steamapps\common\PAYDAY 2\_CommonRedist\DirectX\Jun2010\DXSETUP.exe
+E:\SteamLibrary\steamapps\common\PAYDAY 2\_CommonRedist\vcredist\2008\vcredist_x64.exe
+E:\SteamLibrary\steamapps\common\PAYDAY 2\_CommonRedist\vcredist\2008\vcredist_x86.exe
+E:\SteamLibrary\steamapps\common\PAYDAY 2\_CommonRedist\vcredist\2015\vc_redist.x64.exe
+E:\SteamLibrary\steamapps\common\PAYDAY 2\_CommonRedist\vcredist\2015\vc_redist.x86.exe
+E:\SteamLibrary\steamapps\common\PRO EVOLUTION SOCCER 2018 LITE\_CommonRedist\DirectX\Jun2010\DXSETUP.exe
+E:\SteamLibrary\steamapps\common\PRO EVOLUTION SOCCER 2018 LITE\_CommonRedist\DotNet\4.6\NDP462-KB3151800-x86-x64-AllOS-ENU.exe
+E:\SteamLibrary\steamapps\common\PRO EVOLUTION SOCCER 2018 LITE\_CommonRedist\vcredist\2015\vc_redist.x64.exe
+E:\SteamLibrary\steamapps\common\PRO EVOLUTION SOCCER 2018 LITE\_CommonRedist\vcredist\2015\vc_redist.x86.exe
+E:\SteamLibrary\steamapps\common\rocketleague\Binaries\Win32\x360ce.exe
+E:\SteamLibrary\steamapps\common\rocketleague\_CommonRedist\DirectX\Jun2010\DXSETUP.exe
+E:\SteamLibrary\steamapps\common\rocketleague\_CommonRedist\vcredist\2010\vcredist_x64.exe
+E:\SteamLibrary\steamapps\common\rocketleague\_CommonRedist\vcredist\2010\vcredist_x86.exe
+E:\SteamLibrary\steamapps\common\SpaceEngineers\Bin64\SpaceEngineers.exe
+E:\SteamLibrary\steamapps\common\SpaceEngineers\Tools\AdpcmEncode.exe
+E:\SteamLibrary\steamapps\common\SpaceEngineers\Tools\xWMAEncode.exe
+E:\SteamLibrary\steamapps\common\SpaceEngineers\Tools\DilationForm\DilationForm.exe
+E:\SteamLibrary\steamapps\common\SpaceEngineers\Tools\Fonts\BMFontGen\bmfontgen.exe
+E:\SteamLibrary\steamapps\common\SpaceEngineers\Tools\Fonts\BMFontGen\XNA\SimpleFontTest\Build\SimpleFontTest.exe
+E:\SteamLibrary\steamapps\common\SpaceEngineers\Tools\MwmBuilder\MwmBuilder.exe
+E:\SteamLibrary\steamapps\common\SpaceEngineers\Tools\Space texture converter\Textures converter\TextureBuilder.exe
+E:\SteamLibrary\steamapps\common\SpaceEngineers\Tools\TexturePacking\DilationForm.exe
+E:\SteamLibrary\steamapps\common\SpaceEngineers\Tools\TexturePacking\TexturePacking.exe
+E:\SteamLibrary\steamapps\common\SpaceEngineers\Tools\TexturePacking\Tools\texassemble.exe
+E:\SteamLibrary\steamapps\common\SpaceEngineers\Tools\TexturePacking\Tools\texconv.exe
+E:\SteamLibrary\steamapps\common\SpaceEngineers\Tools\VRageEditor\Bin\VRageEditor.exe
+E:\SteamLibrary\steamapps\common\SpaceEngineers\Tools\VRageEditor\Bin64\VRageEditor.exe
+E:\SteamLibrary\steamapps\common\SpaceEngineers\Tools\VRageEditor\Plugins\ModelBuilder\MwmBuilder.exe
+E:\SteamLibrary\steamapps\common\SpaceEngineers\Tools\VRageEditor\Plugins\ModelViewer\MwmBuilder.exe
+E:\SteamLibrary\steamapps\common\SpaceEngineers\_CommonRedist\DotNet\4.6.1\NDP461-KB3102436-x86-x64-AllOS-ENU.exe
+E:\SteamLibrary\steamapps\common\Star Trek Online\CrashReporter.exe
+E:\SteamLibrary\steamapps\common\Star Trek Online\CrypticError.exe
+E:\SteamLibrary\steamapps\common\Star Trek Online\Star Trek Online.exe
+E:\SteamLibrary\steamapps\common\Star Trek Online\Star Trek Online\Live\CrashReporter.exe
+E:\SteamLibrary\steamapps\common\Star Trek Online\Star Trek Online\Live\CrashReporterX64.exe
+E:\SteamLibrary\steamapps\common\Star Trek Online\Star Trek Online\Live\crypticError.exe
+E:\SteamLibrary\steamapps\common\Star Trek Online\Star Trek Online\Live\crypticErrorX64.exe
+E:\SteamLibrary\steamapps\common\Star Trek Online\Star Trek Online\Live\x64\GameClient.exe
+E:\SteamLibrary\steamapps\common\Star Trek Online\_CommonRedist\DirectX\Jun2010\DXSETUP.exe
+E:\SteamLibrary\steamapps\common\Super Meat Boy\SuperMeatBoy.exe
+E:\SteamLibrary\steamapps\common\Super Meat Boy\x360ce.exe
+E:\SteamLibrary\steamapps\common\Super Meat Boy\Prerequisites\DXSETUP.exe
+E:\SteamLibrary\steamapps\common\Super Meat Boy\Prerequisites\vcredist_x64.exe
+E:\SteamLibrary\steamapps\common\Super Meat Boy\Prerequisites\vcredist_x86.exe
+E:\SteamLibrary\steamapps\common\The Binding Of Isaac\Binding_of_Isaac.exe
+E:\SteamLibrary\steamapps\common\The Binding Of Isaac\FlashAchievements.exe
+E:\SteamLibrary\steamapps\common\The Binding Of Isaac\Isaac.exe
+E:\SteamLibrary\steamapps\common\The Walking Dead\WalkingDead101.exe
+E:\SteamLibrary\steamapps\common\The Walking Dead\x360ce.exe
+E:\SteamLibrary\steamapps\common\The Walking Dead\DirectX\DXSETUP.exe
+E:\SteamLibrary\steamapps\common\The Walking Dead Season Two\TheWalkingDead2.exe
+E:\SteamLibrary\steamapps\common\The Walking Dead Season Two\_CommonRedist\DirectX\Jun2010\DXSETUP.exe
+E:\SteamLibrary\steamapps\common\Warframe\Warframe.x64.exe
+E:\SteamLibrary\steamapps\common\Warframe\Drivers\DirectX9\DXSETUP.exe
+E:\SteamLibrary\steamapps\common\Warframe\Tools\Launcher.exe
+E:\SteamLibrary\steamapps\common\Warframe\Tools\RemoteCrashSender.exe
+D:\games\pacapong.exe
+D:\games\Dos Games\Amazing SpiderMan (1989)\SPIDEY.EXE
+D:\games\Dos Games\Jazz Jackrabbit (1994)(Epic Megagames Inc)\file0001.exe
+D:\games\Dos Games\Jazz Jackrabbit (1994)(Epic Megagames Inc)\helpme.exe
+D:\games\Dos Games\Jazz Jackrabbit (1994)(Epic Megagames Inc)\jazz.exe
+D:\games\Dos Games\Jazz Jackrabbit (1994)(Epic Megagames Inc)\setup.exe
+D:\games\Dos Games\Megaman X (1995)(Capcom)\arj.exe
+D:\games\Dos Games\Megaman X (1995)(Capcom)\tduintro.exe
+D:\games\Dos Games\Megaman X (1995)(Capcom)\tdujam.exe
+D:\games\Dos Games\Megaman X (1995)(Capcom)\MMX\MMXRUN.EXE
+D:\games\Dos Games\Megaman X (1995)(Capcom)\MMX\README.EXE
+D:\games\Dos Games\Megaman X (1995)(Capcom)\MMX\TDUJAM.EXE
+D:\games\Dos Games\Megaman X (1995)(Capcom)\MMX\DRV\SETSOUND.EXE
+D:\games\Dos Games\Prince Of Persia (1991)\4D_PRIN.EXE
+D:\games\Dos Games\X-Men (1989)\DRIVER.EXE
+D:\games\mari0\mari0_1.6.exe
+D:\games\Not Pacman\Not Pacman.exe
+D:\games\notTetris-2\Not Tetris 2.exe
+D:\games\spelunky_1_1\config.exe
+D:\games\spelunky_1_1\Spelunky.exe
