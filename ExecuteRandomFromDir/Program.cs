@@ -110,6 +110,20 @@ namespace ExecuteRandomFromDir
             List<string> allFiles = new List<string>();
             string[] root = Directory.GetFiles(path, searchPattern);
             allFiles.AddRange(root);
+           
+            string[] folders = Directory.GetDirectories(path);
+            foreach (string folder in folders)
+            {
+                try
+                {
+                    if (!IsIgnorable(folder))
+                    {
+                        allFiles.AddRange(Directory.GetFiles(folder, searchPattern, SearchOption.AllDirectories));
+                    }
+                }
+                catch { } // Don't know what the problem is, don't care...
+            }
+
             allFiles = allFiles.Where((x) =>
             {
                 if (File.Exists("BlackList.txt"))
@@ -123,18 +137,7 @@ namespace ExecuteRandomFromDir
                 }
                 else return true;
             }).ToList();
-            string[] folders = Directory.GetDirectories(path);
-            foreach (string folder in folders)
-            {
-                try
-                {
-                    if (!IsIgnorable(folder))
-                    {
-                        allFiles.AddRange(Directory.GetFiles(folder, searchPattern, SearchOption.AllDirectories));
-                    }
-                }
-                catch { } // Don't know what the problem is, don't care...
-            }
+
             return allFiles.ToArray();
         }
 
