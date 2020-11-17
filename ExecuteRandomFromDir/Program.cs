@@ -39,6 +39,9 @@ namespace ExecuteRandomFromDir
                     case 3:
                         selectExe();
                         break;
+                    case 4: 
+                        addToBlackList();
+                        break;
                 }
             } while (true);
         }
@@ -49,6 +52,7 @@ namespace ExecuteRandomFromDir
             Console.WriteLine("1. new List");
             Console.WriteLine("2. Update List");
             Console.WriteLine("3. Choose random .exe");
+            Console.WriteLine("4. add to blacklist");
         }
 
         static void createList(Boolean add)
@@ -231,6 +235,37 @@ namespace ExecuteRandomFromDir
             Console.WriteLine($"exe deleted => {exeList[index]}");
             var list = exeList.Where(x => x != exeList[index]).ToList();
             File.WriteAllLines("output.txt", list);
+        }
+
+        static void addToBlackList(){
+            var BlackList = new List<string>();
+            if (File.Exists("BlackList.txt")) BlackList = File.ReadAllLines("BlackList.txt").ToList();
+
+            Console.Clear();
+            Console.WriteLine("Enter blacklist word");
+            var input = Console.ReadLine();
+
+            if (BlackList.IndexOf(input) > -1) {
+                Console.Clear();
+                Console.WriteLine($"\"{input}\" already exists in blacklist");
+                Console.ReadLine();
+            }
+            else {
+                BlackList.Add(input);
+                var exeFiles = File.ReadAllLines("output.txt").ToList();
+
+                exeFiles = exeFiles.Where((x) =>
+                {
+                    for (int i = 0; i < BlackList.Count; i++)
+                    {
+                        if (x.ToUpper().Contains(BlackList[i].ToUpper())) return false;
+                    }
+                    return true;
+                }).ToList();
+
+                File.WriteAllLines("BlackList.txt", BlackList);
+                File.WriteAllLines("output.txt", exeFiles);
+            }
         }
     }
 }
