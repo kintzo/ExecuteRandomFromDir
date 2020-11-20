@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Windows.Forms;
 using System.Diagnostics;
+using System.Runtime.InteropServices;
 
 namespace ExecuteRandomFromDir
 {
@@ -239,7 +240,15 @@ namespace ExecuteRandomFromDir
 
             Console.Clear();
             Console.WriteLine("Enter blacklist word");
-            var input = Console.ReadLine();
+
+            string input = "";
+            do {
+                try {
+                    input = Console.ReadLine();
+                }
+                catch(Exception) {}
+            }
+            while(input == "" || input == null);      
 
             if (BlackList.IndexOf(input) > -1) {
                 Console.Clear();
